@@ -6,7 +6,7 @@ import './style.css';
 function App(){
   return(
     <div>
-        <h1>  Hola beddoar</h1> 
+        <h1>  Hola beddoar.</h1> 
     </div>
   );
 
